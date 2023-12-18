@@ -17,6 +17,10 @@ public class CompanyInfo {
 
 	}
 
+	public void companyId() {
+		System.out.println("companyId : 1590");
+	}
+
 	public void companyName(String name, int companycode) {
 
 		System.out.println("code:" + companycode + '\n' + "name:" + name);
