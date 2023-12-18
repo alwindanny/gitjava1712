@@ -18,9 +18,11 @@ public class CompanyInfo {
 	}
 	
 	public void companyAddress() {
-    System.out.println("companyAddress : TNagar Chennai");
+	    System.out.println("companyAddress : TNagar Chennai");
+		}
+	public void companyId() {
+		System.out.println("companyId : 1590");
 	}
-	
 
 	public void companyName(String name, int companycode) {
 
